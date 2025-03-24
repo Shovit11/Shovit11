@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shovit11&show_icons=true&locale=en" alt="shovit11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shovit11&" alt="shovit11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shovit11&" alt="Shovit11" /></p>
